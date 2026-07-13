@@ -1,0 +1,15 @@
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\questions.json
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\QuizApp.exe
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\QuizApp.deps.json
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\QuizApp.runtimeconfig.json
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\QuizApp.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\bin\Debug\net10.0\QuizApp.pdb
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.AssemblyInfo.cs
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\refint\QuizApp.dll
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.pdb
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\QuizApp.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\KayRahman\MyProjects\QuizApp\obj\Debug\net10.0\ref\QuizApp.dll

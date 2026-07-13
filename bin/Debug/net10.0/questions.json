@@ -1,0 +1,14 @@
+[
+  {
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Ribosome", "Mitochondria", "Nucleus", "Golgi apparatus"],
+    "correctIndex": 1,
+    "category": "Biology"
+  },
+  {
+    "text": "Which data structure resizes automatically?",
+    "options": ["Array", "List", "Struct", "Enum"],
+    "correctIndex": 1,
+    "category": "C#"
+  }
+]
