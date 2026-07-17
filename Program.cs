@@ -9,7 +9,7 @@ while (!engine.IsFinished)
         Console.WriteLine($"{i + 1}. {engine.CurrentQuestion.Options[i]}");
     }
 
-    Console.WriteLine("Enter Your Answer: ");
+    Console.Write("Enter Your Answer: ");
     int userAnswer = Convert.ToInt32(Console.ReadLine());
 
     bool isCorrect = engine.SubmitAnswer(userAnswer - 1);
